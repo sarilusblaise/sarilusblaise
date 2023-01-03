@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sarilusblondywadley/](https://www.linkedin.com/in/sarilusblondywadley/)
 
-- ⚡ Fun fact **I am kind guy,I like playing chess game and football.**
+- ⚡ Fun fact: **I am a kind guy,I like playing chess game and football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
