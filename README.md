@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarilusblaise" alt="sarilusblaise" /></a> </p>
 
-- 🔭 I’m currently working on **documentation page**
+- 🔭 I’m currently working on [**documentation page**](https://github.com/sarilusblaise/documentation-page)
 
 - 🌱 I’m currently learning **python, java**
 
-- 🤝 I’m looking for help with **binary calculator**
+- 🤝 I’m looking for help with [**binary calculator**](https://github.com/sarilusblaise/binary-calculator)
 
 - 💬 Ask me about **react, JavaScript, bootstrap**
 
